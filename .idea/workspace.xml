@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b2521a7-5036-4044-b3a6-d44589f341dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="5b2521a7-5036-4044-b3a6-d44589f341dd" name="Changes" comment="ggfs">
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/CodersLab/Zadanie1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/address.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/CodersLab/Zadanie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/CodersLab/Zadanie2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +41,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.TestRun.executor": "Run",
+    "JUnit.Zadanie1.executor": "Debug",
     "JUnit.Zadanie2.shouldFindSearchPhrase.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestRun">
+    <configuration name="TestRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Zadania" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zadanie2.shouldFindSearchPhrase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Zadania" />
       <extension name="coverage">
@@ -64,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRun" />
         <item itemvalue="JUnit.Zadanie2.shouldFindSearchPhrase" />
       </list>
     </recent_temporary>
@@ -84,6 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715804265393</updated>
     </task>
+    <task id="LOCAL-00001" summary="ggfs">
+      <option name="closed" value="true" />
+      <created>1715842566809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715842566809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ggfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="ggfs" />
   </component>
 </project>
